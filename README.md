@@ -163,6 +163,5 @@ Yes. These templates are starting points. Adapt them to how you work. The only t
 - **README.md** — You're reading it
 - **Core_Template.md** — Blank template for your project's stable identity
 - **Addendum_Template.md** — Blank template for your running log
-- **Extensions.md** — Instructions on when and how to use additional files
 
 Copy them. Rename them for your project. Start writing.
